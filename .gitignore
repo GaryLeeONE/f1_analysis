@@ -1,2 +1,2 @@
 .idea
-doc_cache/**
+/doc_cache/**
